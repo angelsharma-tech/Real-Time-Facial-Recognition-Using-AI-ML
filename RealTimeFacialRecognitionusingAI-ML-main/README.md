@@ -44,4 +44,4 @@ The project includes directories for data storage, scripts for data collection a
 
 💡 Credits
 
-Developed by Manya Gautam as part of a real-time AI/ML project.
+Developed by Angel Sharma as part of a real-time AI/ML project.
